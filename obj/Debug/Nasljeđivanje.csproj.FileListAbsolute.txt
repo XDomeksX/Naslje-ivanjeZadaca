@@ -1,0 +1,8 @@
+C:\Domenik\Visual Studio\C#\Nasljeđivanje\Nasljeđivanje\bin\Debug\Nasljeđivanje.exe.config
+C:\Domenik\Visual Studio\C#\Nasljeđivanje\Nasljeđivanje\bin\Debug\Nasljeđivanje.exe
+C:\Domenik\Visual Studio\C#\Nasljeđivanje\Nasljeđivanje\bin\Debug\Nasljeđivanje.pdb
+C:\Domenik\Visual Studio\C#\Nasljeđivanje\Nasljeđivanje\obj\Debug\Nasljeđivanje.csproj.AssemblyReference.cache
+C:\Domenik\Visual Studio\C#\Nasljeđivanje\Nasljeđivanje\obj\Debug\Nasljeđivanje.csproj.SuggestedBindingRedirects.cache
+C:\Domenik\Visual Studio\C#\Nasljeđivanje\Nasljeđivanje\obj\Debug\Nasljeđivanje.csproj.CoreCompileInputs.cache
+C:\Domenik\Visual Studio\C#\Nasljeđivanje\Nasljeđivanje\obj\Debug\Nasljeđivanje.exe
+C:\Domenik\Visual Studio\C#\Nasljeđivanje\Nasljeđivanje\obj\Debug\Nasljeđivanje.pdb
